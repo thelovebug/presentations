@@ -5,7 +5,7 @@ A new commandment
 
 +++
 
-@snap[west]
+@snap[west span-100]
 
 A new commandment I give unto you,  
 that you love one another as I have loved you,  
@@ -15,7 +15,7 @@ that you love one another as I have loved you.
 
 +++
 
-@snap[west text-15]
+@snap[west text-15 span-100]
 
 By this shall all men know that you are My disciples,  
 if you have love one for another.  
@@ -26,7 +26,7 @@ if you have love one for another.
 
 +++
 
-@snap[west]
+@snap[west span-100]
 
 A new commandment I give unto you,  
 that you love one another as I have loved you,  
@@ -36,7 +36,7 @@ that you love one another as I have loved you.
 
 +++
 
-@snap[west]
+@snap[west span-100]
 
 By this shall all men know that you are My disciples,
 if you have love one for another.
