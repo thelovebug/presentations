@@ -11,7 +11,7 @@ A new commandment I give unto you,
 that you love one another as I have loved you,
 that you love one another as I have loved you.
 
-@endsnap
+@snapend
 
 +++
 
@@ -22,7 +22,7 @@ if you have love one for another.
 By this shall all men know that you are My disciples,
 if you have love one for another.
 
-@endsnap
+@snapend
 
 +++
 
@@ -32,7 +32,7 @@ A new commandment I give unto you,
 that you love one another as I have loved you,
 that you love one another as I have loved you.
 
-@endsnap
+@snapend
 
 +++
 
@@ -43,4 +43,4 @@ if you have love one for another.
 By this shall all men know that you are My disciples,
 if you have love one for another.
 
-@endsnap
+@snapend
