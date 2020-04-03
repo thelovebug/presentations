@@ -1,0 +1,10 @@
+---
+marp: true
+theme: gaia
+size: 4:3
+
+style: |
+  section.verse { font-size: 64px; display: flex; flex-direction: column; flex-wrap: nowrap; justify-content: center; }
+  section.chorus { font-size: 64px; font-style: italic; display: flex; flex-direction: column; flex-wrap: nowrap; justify-content: center; }
+  footer { font-size: 18px; font-weight: normal; text-align: right; }
+---
